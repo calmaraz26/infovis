@@ -1,1 +1,1 @@
-listar palabras que nos la atención:
+listar palabras que nos la atención: del paper https://homes.cs.washington.edu/~jheer/files/zoo/
