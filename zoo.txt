@@ -1,5 +1,3 @@
-Listado de plabras destacadas del paper https://homes.cs.washington.edu/~jheer/files/zoo/
-
 sistema visual humano
 patrones
 tendencias
