@@ -1,12 +1,2 @@
-listar palabras que nos la atención: del paper https://homes.cs.washington.edu/~jheer/files/zoo/
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width">
-  <title>Mi primera página web</title>
-</head>
-<body>
-   <h1>hola mundo</h1>
-</body>
-</html>
+Listado de plabras destacadas del paper https://homes.cs.washington.edu/~jheer/files/zoo/
+
