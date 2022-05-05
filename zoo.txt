@@ -1,2 +1,37 @@
 Listado de plabras destacadas del paper https://homes.cs.washington.edu/~jheer/files/zoo/
 
+sistema visual humano
+patrones
+tendencias
+valores atípicos
+codificaciones visuales
+percepción gráfica
+series temporales
+finanzas
+ciencia
+políticas públicas
+gráfico apilado
+patrones agregados
+múltiplos pequeños
+tendencias generales
+gráficos de horizonte
+aumentar la densidad de datos
+coordenadas paralelas
+datos multivariados
+mapa de flujo
+información multivariante
+mapa de coropletas
+mapa de símbolos graduados
+evita confundir el área geográfica con los valores de los datos
+permite visualizar más dimensiones
+cartogramas
+una variable de datos
+jerarquías
+organizar
+árbol
+diagramas de adyacencia
+Redes
+relación
+simulación física de estas fuerzas determina las posiciones de los nodos
+diagrama de arco
+diseño unidimensional de nodos
